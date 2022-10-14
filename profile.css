@@ -1,0 +1,38 @@
+/* ----------------------------------hearder----------------------------- */
+
+
+.hearder {
+	display: flex;
+	justify-content: flex-start;
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+	
+}
+
+.linkHome {
+    margin-right: 4em;
+    margin-left: 1em;
+}
+
+
+/* ----------------------------------About me section---------------------- */
+
+.body {
+    margin-top: 4em;
+}
+.list {
+	display: flex;
+	justify-content: center;
+}
+
+.favorite-foods {
+    margin-left: 1em;
+}
+
+
+/* ----------------------tell me about you---------- */
+
+.tell-me-more-about-you {
+    margin-top: 4em;
+}
